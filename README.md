@@ -3,7 +3,8 @@
 
 
 # links
-![Qiita](https://qiita.com/tonitoni415)
+
+[Qiita](https://qiita.com/tonitoni415)
 
 <!--
 **susumutomita/susumutomita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
