@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://github.com/yutkat/yutkat/">
+    <img src="https://komarev.com/ghpvc/?username=susumutomita" alt="susumutomita" />
+  </a>
+  <a href="https://github.com/susumutomita">
+    <img height="20" src="https://img.shields.io/github/followers/susumutomita?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 [![](https://raw.githubusercontent.com/susumutomita/susumutomita/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/susumutomita/susumutomita/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/susumutomita/susumutomita/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/susumutomita/susumutomita/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/susumutomita/susumutomita/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
