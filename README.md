@@ -15,6 +15,10 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ruby,ts,js,html,css,nodejs,react,firebase,vercel,aws,azure,git,github,githubactions,gitlab,docker,go,graphql,jenkins,linux,md,maven,gradle,solidity,bash,raspberrypi" />
 
+### Zenn Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## links
 
 - [Zenn](https://zenn.dev/bull)
