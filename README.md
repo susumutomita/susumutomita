@@ -15,6 +15,19 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ruby,ts,js,html,css,nodejs,react,firebase,vercel,aws,azure,git,github,githubactions,gitlab,docker,go,graphql,jenkins,linux,md,maven,gradle,solidity,bash,raspberrypi" />
 
+### Achievement
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=susumutomita)](https://github.com/ryo-ma/github-profile-trophy)
+
+### OSS Insight
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=11481781" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11481781&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @susumutomita" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11481781&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
 - [shell-pilotをLlama 3で動かしてみる](https://zenn.dev/bull/articles/getting-started-shell-pilot)
