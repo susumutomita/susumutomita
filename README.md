@@ -30,11 +30,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [無料でGitHub Issueの重複チェックができるGitHub Vector Issue Processorの紹介](https://zenn.dev/bull/articles/github-issue-vector-processor)
 - [Voyager APIを利用したリアルタイムブロックチェーンアート：Blockchain Pulseの紹介](https://zenn.dev/bull/articles/getting-started-project-voyager)
 - [shell-pilotをLlama 3で動かしてみる](https://zenn.dev/bull/articles/getting-started-shell-pilot)
 - [Envioでブロックチェインデータをインデックス化してみた](https://zenn.dev/bull/articles/getting-started-envio)
 - [Solidityのコンストラクターの処理を追ってみる](https://zenn.dev/bull/articles/getting-started-solidity)
-- [ゼロ知識証明を利用した年齢確認アプリInroの紹介](https://zenn.dev/bull/articles/getting-started-inro)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
