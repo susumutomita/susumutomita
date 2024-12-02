@@ -30,11 +30,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [Scout Gameの始め方と注意点](https://zenn.dev/bull/articles/getting-started-scout-game)
 - [Sign Protocolを用いたアテステーション生成入門](https://zenn.dev/bull/articles/getting-started-sign-protocol)
 - [川柳をスマートコントラクトに乗せてみるOnchain Senryuの紹介と使った技術を紹介します](https://zenn.dev/bull/articles/onchain-senryu)
 - [World IDを使った認証をアプリケーションへ組み込む](https://zenn.dev/bull/articles/getting-started-world-id)
 - [無料でGitHub Issueの重複チェックができるGitHub Vector Issue Processorの紹介](https://zenn.dev/bull/articles/github-issue-vector-processor)
-- [Voyager APIを利用したリアルタイムブロックチェーンアート：Blockchain Pulseの紹介](https://zenn.dev/bull/articles/getting-started-project-voyager)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
