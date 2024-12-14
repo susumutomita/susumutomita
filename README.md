@@ -30,11 +30,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [Solidity ガス最適化の基本とテクニック](https://zenn.dev/bull/articles/how-to-optimize-gas)
 - [Rust × Docker環境でGitフックによる任意コマンド実行を行う方法](https://zenn.dev/bull/articles/getting-started-cargo-husky)
 - [Scout Gameの始め方と注意点](https://zenn.dev/bull/articles/getting-started-scout-game)
 - [Sign Protocolを用いたアテステーション生成入門](https://zenn.dev/bull/articles/getting-started-sign-protocol)
 - [川柳をスマートコントラクトに乗せてみるOnchain Senryuの紹介と使った技術を紹介します](https://zenn.dev/bull/articles/onchain-senryu)
-- [World IDを使った認証をアプリケーションへ組み込む](https://zenn.dev/bull/articles/getting-started-world-id)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
