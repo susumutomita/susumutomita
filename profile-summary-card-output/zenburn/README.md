@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/susumutomita/susumutomita/main/profile-summary-card-output/zenburn/4-productive-time.svg)
-```
-
-    
