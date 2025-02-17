@@ -30,7 +30,7 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
-- [AutonomeでAgent Kitを使う](https://zenn.dev/bull/articles/how-to-integrate-agentkit-to-autonome)
+- [Autonome+Agent Kitを使ってCrypto AI Agentを作成する](https://zenn.dev/bull/articles/how-to-integrate-agentkit-to-autonome)
 - [Solidity ガス最適化の基本とテクニック](https://zenn.dev/bull/articles/how-to-optimize-gas)
 - [Rust × Docker環境でGitフックによる任意コマンド実行を行う方法](https://zenn.dev/bull/articles/getting-started-cargo-husky)
 - [Scout Gameの始め方と注意点](https://zenn.dev/bull/articles/getting-started-scout-game)
