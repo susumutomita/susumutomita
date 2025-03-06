@@ -41,6 +41,7 @@
 
 - [Zenn](https://zenn.dev/bull)
 - [Qiita](https://qiita.com/tonitoni415)
+- [Warpcast](https://warpcast.com/amedama)
 
 ![snek go brr](https://raw.githubusercontent.com/susumutomita/susumutomita/snek/snek-light.svg#gh-light-mode-only)
 ![snek go brr](https://raw.githubusercontent.com/susumutomita/susumutomita/snek/snek-dark.svg#gh-dark-mode-only)
