@@ -41,6 +41,7 @@
 
 - [Zenn](https://zenn.dev/bull)
 - [Qiita](https://qiita.com/tonitoni415)
+-  [Orcid]([https://orcid.org/0009-0009-8834-349X)
 
 ![snek go brr](https://raw.githubusercontent.com/susumutomita/susumutomita/snek/snek-light.svg#gh-light-mode-only)
 ![snek go brr](https://raw.githubusercontent.com/susumutomita/susumutomita/snek/snek-dark.svg#gh-dark-mode-only)
