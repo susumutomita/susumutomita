@@ -28,6 +28,10 @@
   </picture>
 </a>
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=susumutomita&hide_border=true)
+
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
 - [Autonome+Agent Kitを使ってCrypto AI Agentを作成する](https://zenn.dev/bull/articles/how-to-integrate-agentkit-to-autonome)
