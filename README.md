@@ -34,11 +34,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [参加者それぞれのAWSアカウントに問題環境を配るクロスアカウント設計](https://zenn.dev/bull/articles/tenkacloud-cross-account-deploy)
+- [AIの深層インタビューで曖昧なアイデアを仕様書に変えるDeepFormを作った](https://zenn.dev/bull/articles/deepform-ai-requirements)
 - [Autonome+Agent Kitを使ってCrypto AI Agentを作成する](https://zenn.dev/bull/articles/how-to-integrate-agentkit-to-autonome)
 - [Solidity ガス最適化の基本とテクニック](https://zenn.dev/bull/articles/how-to-optimize-gas)
 - [Rust × Docker環境でGitフックによる任意コマンド実行を行う方法](https://zenn.dev/bull/articles/getting-started-cargo-husky)
-- [Scout Gameの始め方と注意点](https://zenn.dev/bull/articles/getting-started-scout-game)
-- [Sign Protocolを用いたアテステーション生成入門](https://zenn.dev/bull/articles/getting-started-sign-protocol)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
