@@ -34,11 +34,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [Zig言語で学ぶブロックチェイン](https://zenn.dev/bull/books/zig-blockchain)
+- [他人のCloudFormationを安全に取り込む — inert &amp; content-addressedな問題パック設計](https://zenn.dev/bull/articles/tenkacloud-problem-pack-provenance)
 - [AWS無料枠に収める設計を、CDK Aspectで機械的に強制する](https://zenn.dev/bull/articles/tenkacloud-zero-cost-cdk-aspect)
 - [SBTの2プレーンに「問題デプロイ」の層を足す — TenkaCloudのマルチテナント設計](https://zenn.dev/bull/articles/tenkacloud-sbt-multi-tenant-saas)
-- [他人のCloudFormationを安全に取り込む — inert &amp; content-addressedな問題パック設計](https://zenn.dev/bull/articles/tenkacloud-problem-pack-provenance)
 - [参加者それぞれのAWSアカウントに問題環境を配るクロスアカウント設計](https://zenn.dev/bull/articles/tenkacloud-cross-account-deploy)
-- [AIの深層インタビューで曖昧なアイデアを仕様書に変えるDeepFormを作った](https://zenn.dev/bull/articles/deepform-ai-requirements)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
