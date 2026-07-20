@@ -34,11 +34,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [オンボーディングを『最初の1問』にした ─ LPから触ってもらうまでの導線設計](https://zenn.dev/bull/articles/tenkacloud-onboarding-as-first-problem)
+- [ブートキャンプに参加してみたら質の高いフィードバックがもらえる場所だった](https://zenn.dev/singularity/articles/singularity-society-feedback-loop)
 - [Zig言語で学ぶブロックチェイン](https://zenn.dev/bull/books/zig-blockchain)
-- [他人のCloudFormationを安全に取り込む — inert &amp; content-addressedな問題パック設計](https://zenn.dev/bull/articles/tenkacloud-problem-pack-provenance)
 - [AWS無料枠に収める設計を、CDK Aspectで機械的に強制する](https://zenn.dev/bull/articles/tenkacloud-zero-cost-cdk-aspect)
 - [SBTの2プレーンに「問題デプロイ」の層を足す — TenkaCloudのマルチテナント設計](https://zenn.dev/bull/articles/tenkacloud-sbt-multi-tenant-saas)
-- [参加者それぞれのAWSアカウントに問題環境を配るクロスアカウント設計](https://zenn.dev/bull/articles/tenkacloud-cross-account-deploy)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
