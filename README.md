@@ -34,11 +34,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [AIエージェントに実装を任せるためのハーネス ─ ルールレジストリとhooksで縛る](https://zenn.dev/bull/articles/tenkacloud-ai-agent-harness)
 - [オンボーディングを『最初の1問』にした ─ LPから触ってもらうまでの導線設計](https://zenn.dev/bull/articles/tenkacloud-onboarding-as-first-problem)
 - [ブートキャンプに参加してみたら質の高いフィードバックがもらえる場所だった](https://zenn.dev/singularity/articles/singularity-society-feedback-loop)
 - [Zig言語で学ぶブロックチェイン](https://zenn.dev/bull/books/zig-blockchain)
 - [AWS無料枠に収める設計を、CDK Aspectで機械的に強制する](https://zenn.dev/bull/articles/tenkacloud-zero-cost-cdk-aspect)
-- [SBTの2プレーンに「問題デプロイ」の層を足す — TenkaCloudのマルチテナント設計](https://zenn.dev/bull/articles/tenkacloud-sbt-multi-tenant-saas)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
