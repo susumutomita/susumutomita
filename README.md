@@ -34,11 +34,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [MynaAgentを作った：マイナンバーカードの年齢証明からJPYC給付まで](https://zenn.dev/bull/articles/mynaagent-zk-age-benefit)
 - [4つに増えたモードを整理して、TenkaCloudを作り直した](https://zenn.dev/bull/articles/tenkacloud-local-cryptography-battle)
 - [自分で作るクラウド競技](https://zenn.dev/bull/books/cloud-competition)
 - [AIエージェントに実装を任せるためのハーネス ─ ルールレジストリとhooksで縛る](https://zenn.dev/bull/articles/tenkacloud-ai-agent-harness)
 - [オンボーディングを『最初の1問』にした ─ LPから触ってもらうまでの導線設計](https://zenn.dev/bull/articles/tenkacloud-onboarding-as-first-problem)
-- [ブートキャンプに参加してみたら質の高いフィードバックがもらえる場所だった](https://zenn.dev/singularity/articles/singularity-society-feedback-loop)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
