@@ -34,11 +34,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [AWS学習用シミュレーター開発記録：CloudFormationでREST APIとLambdaをつなぐ](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261104)
 - [脅威検知サービスの気持ちになれるゲーム「目指せクラウドマスター」を作って、自動プレイで限界まで回した](https://zenn.dev/bull/articles/tenkacloud-cloud-master-ai-limit)
 - [TenkaCloudとTailscaleで、離れた場所から競技に参加する](https://zenn.dev/bull/articles/tenkacloud-tailscale-remote-event)
 - [MulmoTerminalにTailscale経由でアクセスする方法](https://zenn.dev/singularity/articles/tailscale-mulmoterminal-network)
 - [ブートキャンプに参加して4か月、TenkaCloudを外に出し続けて分かったこと](https://zenn.dev/singularity/articles/singularity-society-bootcamp-4months)
-- [MynaAgentを作った：マイナンバーカードの年齢証明からJPYC給付まで](https://zenn.dev/bull/articles/mynaagent-zk-age-benefit)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
