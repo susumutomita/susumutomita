@@ -34,11 +34,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [シンギュラリティソサイエティのブートキャンプで取り組んだTenkaCloudの紹介](https://zenn.dev/singularity/articles/singularity-society-bootcamp-demo-day)
 - [シミュレーター開発日記：S3の分割アップロードを完了と中止まで試す](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261109)
 - [KMSの鍵を同じ呼び名で切り替える：手元で試せるalias機能](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261106)
 - [Azure Blobの詳細画面を作る：古い応答で上書きしないための実装と検証](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261105)
 - [AWS学習用シミュレーター開発記録：CloudFormationでREST APIとLambdaをつなぐ](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261104)
-- [脅威検知サービスの気持ちになれるゲーム「目指せクラウドマスター」を作って、自動プレイで限界まで回した](https://zenn.dev/bull/articles/tenkacloud-cloud-master-ai-limit)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
