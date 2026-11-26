@@ -34,11 +34,11 @@
 
 ### Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+- [TenkaCloudSimulator 開発日記：ChatGPTのDotで開発が自律的に続く仕組みをつくる](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126)
 - [シミュレーター開発日記：SNSの1件を2つのSQSキューへ届ける](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261110)
 - [シンギュラリティソサイエティのブートキャンプで取り組んだTenkaCloudの紹介](https://zenn.dev/singularity/articles/singularity-society-bootcamp-demo-day)
 - [シミュレーター開発日記：S3の分割アップロードを完了と中止まで試す](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261109)
 - [KMSの鍵を同じ呼び名で切り替える：手元で試せるalias機能](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261106)
-- [Azure Blobの詳細画面を作る：古い応答で上書きしないための実装と検証](https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261105)
 <!-- BLOG-POST-LIST:END -->
 
 ## links
